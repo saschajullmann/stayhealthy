@@ -1,2 +1,9 @@
-siteTitle="Gatsby Starter Site"
-linkPrefix = "/gatsby-starter-default"
+siteTitle="Stay Healthy Academy"
+linkPrefix = "/"
+favicon = ""
+description = ""
+link = ""
+
+[author]
+fullName = "Sascha Jullmann"
+email = ""

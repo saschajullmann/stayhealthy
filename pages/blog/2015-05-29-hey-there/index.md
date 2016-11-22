@@ -1,8 +1,8 @@
 ---
-title: It's Alive!
-date: "2015-08-28T22:40:32.169Z"
+title: Test Titel
+date: "2016-11-22"
 layout: post
-path: "/hey-there/"
+path: "/blog/test-titel/"
 author: "Sascha"
 category: "Blah"
 description: "Employment, gender, breakthrough insights carbon emissions reductions peaceful, sharing economy Angelina Jolie accelerate, inclusive capitalism research inspire social change social good informal economies minority. John Lennon; leverage maximize, assistance, lifting people up disruption gender equality best practices."
